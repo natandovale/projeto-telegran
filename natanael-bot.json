@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "natanaelvale-bot-wguu",
+  "private_key_id": "c19b7f6a4fbc5134593be9c47620ac838c4ebaa5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNFc+44pRD9OpT\njbOuPvA615xBLEQPOS5Lju/ycOB/bQB3MDSQX3rligYhtXIx/yNize2mulcLdpCb\nI0DNMO1OcQgbQ2wkTQUQKoleAPMeSvG/FtGDgVH8q/9iHERO5Mh3sFRSKNRvZD4U\nh1V2LaMfx7d60HW8pHeF5OAkRJhqTA9LNns2990ODRk8VVOpdilzkDfOcqW3ysaX\nQB0GhHQbFj92ZVxffA7xfs/8XVcveO1m2MTWbsV4rABG67akjXzOau0suUbsbi2M\nKS7POxElclzfkBQCQ19dg6wH58unEs7cyg/eDq5FNweSYsPQfU2dE/dZylvLi4sH\nHhYEugfFAgMBAAECggEABLdCroqvRBzGoqM4hYI2/fNlSW5eJkd3VA92XwnPb76u\n6w61trgrWEnjODU26gVm5+e6VkIkrEPOsXKPE+jTHCGnQRE81FzdB/EidYHqFUE9\n69n3eWGo4/mEhtoFjBbgsTfhyH3d3K3ea5RtF6mW/a0XAAD5JBxYD0EjElJtesw4\nYHuRBvs9BwGnDRbgYf0UymecqT41lPivfFmfEQ+A8m6O2jxLhMlCtThkN0/WCAXD\nW0fL6SvAGttCI4oYEDB8Kts78LQiJO2VlvpdVRHPm/CAa/LqlsMqGsXVVjB5I2ky\nX2RLwi++eTi8zN6To2AVviCdh/POhRs6aa/2AhsMZQKBgQD3DCnaumxBT8Pkef22\n8hpiHStpBSwUqQaJ1OYDLy8BHBPZwNt8QXtWWo0Cf/ZlVdTd2Xmv8uXOZoUPPpU9\nWpF0XqE5ifiRqEbllkuZ4Qmm+5TOzBcLOq8gU4dsNMgLGYbXC3YnAsalkif0XNcO\nVwFa6GofqRLKkr2ruWXlF7SPrwKBgQDUhF4UatVVCL6/woY/Tvojfxhacn35q1hK\nLFXIhov6Ogopx1msSreXYe1P1GNRrt4X3mARfzJz0zyvqlujMyDVwZlSenrqbSOg\nMwcl7dQ1YAlSNDN26ZiEBLrUSmhnDI42kjDj2ShTR6moFeKZHR6q0B9Ij11Is1N5\nkD8fauNoywKBgBou/dii3Ypmi9qRW2SicE1pzgoJdEyURY8iM2au/4pckXYIzLp0\nrj/OxRc4vMKswCzrOcx+MAEaOIwPE/42tSfiR7AzgVbewPTgYw7iHQXHsFPiqaaV\nB66ja7z6MyGKCRKNsm4cCzXNMdLibCCm9AvQij7kyosR1mx27+fCBW8dAoGAeBZI\nN09bN07WwvM/+vw82twRveJejzuki11cKBDnfkFXxt3wLSyXa8KZX/fLG7gtpd0x\n+hEfSFYAP9+LIsBceI2KfxHY7Sk47WiITIWE2ZhoC/yVbEd5uHgXvqhBMKHmpq2b\nVNU8NTsUgnfDcPQEhU9Prifc9ZznuZSqJq22zVsCgYEAsO2fwwgvoygeTlMN6fKX\nYEal1tQcW3MaE6SFe+sq7XY4Cv5qZQF2jWbrkPsw0dQ1dMEuYaqOFPNeW2hEOPDM\n0ziyCt1d4XA+xmHy+WYecNl6b83oCbYNGI3QoTNXc4A4p8LaDYYDGh/koV/N6Upm\nYfFxr82DdbMCEJxiwL9B1nI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-cdybla@natanaelvale-bot-wguu.iam.gserviceaccount.com",
+  "client_id": "101593542517577950525",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-cdybla%40natanaelvale-bot-wguu.iam.gserviceaccount.com"
+}
